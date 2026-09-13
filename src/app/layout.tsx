@@ -19,23 +19,23 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "CodeWithZohaib | Learn Programming Languages & All Courses Online",
-  description: "CodeWithZohaib offers comprehensive courses in Next.js, JavaScript, Python, C++, and more. From beginner to advanced, our expert-led tutorials, hands-on projects, and interactive lessons help you master coding skills and excel in tech. Start your development journey today with our up-to-date resources across all major languages and frameworks.",
+  title: "DotZohaib EduTech | Learn Programming Languages & All Courses Online",
+  description: "DotZohaib EduTech offers comprehensive courses in Next.js, JavaScript, Python, C++, and more. From beginner to advanced, our expert-led tutorials, hands-on projects, and interactive lessons help you master coding skills and excel in tech. Start your development journey today with our up-to-date resources across all major languages and frameworks.",
   keywords: "programming courses, learn coding, web development, Next.js tutorial, JavaScript course, Python programming, C++ learning, coding bootcamp, programming for beginners, full-stack development, software engineering, tech skills, coding certification, online programming classes, learn to code",
   openGraph: {
-    title: "CodeWithZohaib | Master Programming Languages With Expert-Led Courses",
+    title: "DotZohaib EduTech | Master Programming Languages With Expert-Led Courses",
     description: "Transform your career with our comprehensive programming courses. Learn Next.js, JavaScript, Python, C++ and more through practical, project-based tutorials designed for all skill levels.",
     images: [{ url: "/images/WhatsApp Image 2025-02-17 at 22.31.24_129f5135.jpg", width: 1200, height: 630 }],
     type: "website",
     locale: "en_US",
-    url: "https://codewithzohaib.vercel.app/",
+    url: "https://dotzohaibedutech.vercel.app/",
   },
   twitter: {
     card: "summary_large_image",
-    title: "CodeWithZohaib | Expert Programming Courses Online",
+    title: "DotZohaib EduTech | Expert Programming Courses Online",
     description: "Learn coding from scratch or advance your skills with our comprehensive courses in Next.js, JavaScript, Python, C++ and more.",
     images: ["/images/WhatsApp Image 2025-02-17 at 22.31.24_129f5135.jpg"],
-    creator: "@codewithzohaib",
+    creator: "@dotzohaibedutech",
   },
   robots: {
     index: true,
@@ -48,13 +48,13 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
-  authors: [{ name: "Zohaib" }],
+  authors: [{ name: "Zohaib Ali Dayo" }],
   category: "Education",
   verification: {
     google: "your-google-verification-code",
     yandex: "your-yandex-verification-code",
   },
-  metadataBase: new URL("https://codewithzohaib.vercel.app/"),
+  metadataBase: new URL("https://dotzohaibedutech.vercel.app/"),
 };
 
 // RootLayout Component
