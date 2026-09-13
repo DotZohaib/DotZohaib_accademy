@@ -1,0 +1,6 @@
+.next/
+android/
+codewithzohaiba_app/
+node_modules/
+out/
+.env.local
